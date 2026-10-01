@@ -1,0 +1,101 @@
+order_id,Date,customer_name,Customer Email,item_name,category,qty,unit_price,Total,discount_applied,refund_amount,refund_date,refund_reason,payment_method,store_location,sales_rep,notes
+1001,Jan 1 2024,Maria Rodriguez,mrodriguez@gmail.com,Scented Candle,home decor,1,12.00,12.00,,,,,zelle,Brooklyn,Emma,birthday gift
+1002,December 18 2024,Unknown Customer,,Decorative Tray,Home Decor,1,32.00,28.80,10%,,,,debit,Brooklyn,Grace,corporate order
+1003,2024-09-14,Ahmed Hayes,ahayes@hotmail.com,Tea Infuser,Kitchenware,1,9.99,9.99,,,,,credit card,Brooklyn,Frank,fragile - handle with care
+1004,2024-09-26,Marcus Garcia,mgarcia@outlook.com,Greeting Card Set,Stationery,2,12.00,19.20,20%,,,,Debit,Brooklyn,Emma,
+1005,2024-08-15,Wei Kim,wkim@hotmail.com,Hand Towel Set,bath,1,24.00,21.60,10%,,,,debit,Brooklyn,Alice,fragile - handle with care
+1006,September 11 2024,Carlos Nguyen,cnguyen@gmail.com,Linen Napkins (set of 4),Table Linens,1,22.50,22.50,,,,,debit,Queens,Carol,registry
+1007,2024-02-15,Nadia Anderson,nadia.anderson@yahoo.com,Placemats (set of 4),TABLE LINENS,1,18.50,18.50,0,,,,Venmo,Queens,Grace,
+1008,05-05-2024,Unknown Customer,,Placemats (set of 4),table linens,1,18.50,18.50,,18.50,2024-05-12,defective product,cash,Brooklyn,Frank,
+1009,2024-06-21,Brandon Wilson,bwilson@hotmail.com,Wooden Spoon Set,Kitchenware,3,18.00,51.30,5%,,,,credit card,Brooklyn,Bob,in-store
+1010,07/16/2024,Wei Kim,wkim@hotmail.com,Linen Napkins (set of 4),linens,1,22.50,21.38,5%,,,,zelle,Queens,Carol,wedding gift
+1011,2024-10-07,Joy Brown,jbrown@hotmail.com,Wall Mirror,HOME DECOR,1,55.00,55.00,,,,,Venmo,Brooklyn,Frank,
+1012,07/11/2024,Sam Wilson,swilson@icloud.com,Stoneware Bowl,KITCHENWARE,1,16.50,16.50,,,,,Debit,Brooklyn,Henry,registry
+1013,2024-12-16,Bianca Pham,bpham@yahoo.com,Sisal Brush,Bath,5,14.00,63.00,10%,,,,CREDIT CARD,Manhattan,Dave,repeat customer
+1014,10/18/24,Bianca Pham,bpham@yahoo.com,Stoneware Bowl,Kitchen,5,16.50,82.50,,,,,debit,Manhattan,Alice,
+1015,Feb 26 2024,Ravi Pham,rpham@icloud.com,Greeting Card Set,Stationery,1,12.00,12.00,,,,,,Brooklyn,Alice,
+1016,11/20/2024,Vincent Kim,vincent.kim@yahoo.com,Holiday Wreath,seasonal,2,45.00,85.50,5%,,,,Apple Pay,Manhattan,Alice,staff pick
+1017,12/15/2024,Sofia Zhang,szhang@yahoo.com,"Cast Iron Skillet 10""",kitchenware,1,45.00,40.50,10%,,,,credit card,Manhattan,Henry,
+1018,2024-09-14,Omar Nakamura,,Wooden Spoon Set,Kitchen,3,18.00,54.00,,,,,cash,Bronx,Henry,
+1019,09/21/2024,Wei Park,wpark@icloud.com,Bamboo Cutting Board,kitchen,2,34.99,69.98,,,,,Apple Pay,manhattan,Emma,holiday rush
+1020,2024-04-11,Ravi Pham,rpham@icloud.com,Easter Basket,seasonal,1,28.00,26.60,5%,,,,Apple Pay,Brooklyn,Emma,phone order
+1021,2024-05-18,Hiro Lopez,hlopez@gmail.com,Scented Candle,HOME DECOR,3,12.00,36.00,,,,,debit,Manhattan,Henry,called ahead
+1022,September 22 2024,Lisa Cohen,lcohen@hotmail.com,Greeting Card Set,stationery,2,12.00,24.00,,,,,credit card,Manhattan,Bob,registry
+1023,11-01-2024,Ravi Pham,rpham@icloud.com,Holiday Wreath,seasonal,1,45.00,40.50,10%,,,,cash,Manhattan,Bob,
+1024,2024-01-02,Ravi Pham,rpham@icloud.com,Stoneware Bowl,KITCHENWARE,1,16.50,14.85,10%,,,,cash,Manhattan,Dave,in-store
+1025,2024-10-12,Chen Le,cle@yahoo.com,Bath Towel,BATH,2,32.00,51.20,20%,,,,credit card,Brooklyn,Bob,registry
+1026,March 27 2024,Jorge Tran,jtran@icloud.com,Bamboo Cutting Board,Kitchen,2,34.99,55.98,20%,,,,Cash,manhattan,Henry,gift wrapping
+1027,02/19/2024,Eric Diaz,ediaz@hotmail.com,Wall Mirror,decor,2,55.00,110.00,,,,,cc,Manhattan,Grace,holiday rush
+1028,2024-12-05,Omar Nakamura,,Desk Calendar,stationery,2,18.00,32.40,10%,18.00,12/17/2024,changed mind,credit card,brooklyn,Emma,called ahead
+1029,10-18-2024,Maria Tran,,Wooden Spoon Set,kitchenware,5,18.00,90.00,,,,,,Bronx,Alice,staff pick
+1030,2024-12-01,Yuki Zhang,,Garland,seasonal,2,32.00,57.60,loyalty,,,,,Brooklyn,Alice,first time customer
+1031,Jun 30 2024,Omar Nakamura,,Bar Soap,Bath,3,8.50,25.50,0,,,,Apple Pay,Queens,Henry,first time customer
+1032,05/06/2024,Emily Park,epark@icloud.com,Notebook,stationery,3,15.00,45.00,0,,,,Credit Card,Manhattan,Emma,holiday rush
+1033,January 15 2024,Lisa Cohen,lcohen@hotmail.com,Table Runner,table linens,1,22.00,22.00,,,,,Venmo,Manhattan,Alice,
+1034,Aug 20 2024,Maria Tran,,Wall Mirror,HOME DECOR,1,55.00,46.75,15%,,,,,Brooklyn,Grace,
+1035,02/24/2024,Unknown Customer,,Garland,Seasonal,1,32.00,32.00,,,,,credit card,Brooklyn,Alice,
+1036,11-19-2024,Mei Park,mpark@hotmail.com,Scented Candle,home decor,1,12.00,12.00,15%,,,,credit card,Manhattan,Carol,
+1037,2024-11-28,Hiro Lopez,hlopez@gmail.com,Wall Mirror,decor,1,55.00,55.00,,,,,Venmo,Manhattan,Dave,staff pick
+1038,2024-12-11,Ravi Pham,rpham@icloud.com,Easter Basket,Holiday,1,28.00,28.00,,,,,,Brooklyn,Bob,
+1039,2024-11-09,Wei Park,wpark@icloud.com,Decorative Tray,decor,2,32.00,51.20,20%,,,,Venmo,Brooklyn,Dave,wedding gift
+1040,2024-06-22,Omar Nakamura,,Placemats (set of 4),linens,1,18.50,18.50,,,,,credit card,Queens,Alice,holiday rush
+1041,01-30-2024,Anna Hassan,anna.hassan@yahoo.com,Desk Calendar,Office,1,18.00,18.00,,,,,credit card,Manhattan,Emma,holiday rush
+1042,12-03-2024,Unknown Customer,,Desk Calendar,Stationery,1,18.00,16.20,0.10,,,,credit card,Brooklyn,Grace,
+1043,2024-08-09,Maria Tran,,Decorative Tray,home decor,1,32.00,27.20,15%,,,,credit card,Manhattan,Bob,
+1044,2024-11-02,Brandon Wilson,bwilson@hotmail.com,Glass Pitcher,kitchenware,2,28.50,51.30,10%,51.30,2024-11-06,damaged packaging,Zelle,Queens,Emma,repeat customer
+1045,Oct 27 2024,Anna Hassan,anna.hassan@yahoo.com,Linen Napkins (set of 4),table linens,3,22.50,67.50,,,,,credit card,Brooklyn,Grace,in-store
+1046,2024-12-04,Jasmine Le,jle@outlook.com,Table Runner,table linens,3,22.00,66.00,,,,,credit card,Queens,Dave,repeat customer
+1047,July 18 2024,Kevin Park,kpark@icloud.com,Soy Wax Candle,HOME DECOR,1,16.00,16.00,,,,,credit card,Manhattan,Henry,registry
+1048,12/07/2024,Ravi Pham,rpham@icloud.com,Wall Mirror,decor,1,55.00,55.00,,,,,credit card,Manhattan,Frank,first time customer
+1049,2024-10-06,Chen Rodriguez,crodriguez@icloud.com,Linen Tablecloth,table linens,1,58.00,52.20,0.10,,,,cash,manhattan,Henry,
+1050,2024-01-23,Nadia Anderson,nadia.anderson@yahoo.com,Knife Block Set,kitchenware,2,89.99,179.98,0,,,,debit,Brooklyn,Frank,
+1051,07/05/2024,Aisha Jackson,,Bamboo Cutting Board,Kitchenware,4,34.99,125.96,loyalty,,,,,Brooklyn,Frank,
+1052,2024-02-21,Unknown Customer,,Placemats (set of 4),TABLE LINENS,1,18.50,18.50,,,,,credit card,Manhattan,Emma,
+1053,2024-12-04,Bianca Cohen,,Tea Infuser,Kitchen,2,9.99,16.98,15%,,,,debit,Brooklyn,Dave,registry
+1054,06/20/2024,Jasmine Lee,jlee@gmail.com,Desk Calendar,stationery,1,18.00,15.30,15%,,,,CREDIT CARD,Brooklyn,Carol,
+1055,2024-11-19,Yuki Marchetti,,Easter Basket,seasonal,1,28.00,25.20,0.10,,,,cash,Manhattan,Dave,registry
+1056,2024-05-11,Unknown Customer,,Ceramic Vase,HOME DECOR,4,24.99,89.96,loyalty,,,,credit card,Queens,Carol,fragile - handle with care
+1057,2024-05-01,Bianca Pham,bpham@yahoo.com,Sisal Brush,bath,2,14.00,28.00,,28.00,2024-05-18,no longer needed,apple pay,Manhattan,Dave,in-store
+1058,2024-04-14,Unknown Customer,,Hand Towel Set,BATH,1,24.00,21.60,10%,,,,credit card,Manhattan,Grace,bulk order
+1059,December 14 2024,Chen Rodriguez,crodriguez@icloud.com,Greeting Card Set,Stationery,1,12.00,12.00,0,,,,credit card,Brooklyn,Henry,called ahead
+1060,2024-06-10,Unknown Customer,,Tea Infuser,kitchen,4,9.99,35.96,10%,,,,,Brooklyn,Emma,bulk order
+1061,2024-09-21,Lisa Goldberg,lgoldberg@yahoo.com,Greeting Card Set,Stationery,1,12.00,12.00,,,,,Zelle,Queens,Grace,
+1062,02/13/2024,Nadia Anderson,nadia.anderson@yahoo.com,Soy Wax Candle,decor,1,16.00,14.40,loyalty,,,,Venmo,Brooklyn,Grace,
+1063,2024-07-28,Emily Anderson,eanderson@gmail.com,Picture Frame Set,HOME DECOR,1,19.99,16.99,15%,,,,credit card,Brooklyn,Frank,loyalty discount
+1064,08/05/2024,Omar Nakamura,,Wall Mirror,decor,1,55.00,44.00,20%,,,,credit card,Brooklyn,Bob,
+1065,04/21/2024,Anna Jackson,ajackson@outlook.com,"Cast Iron Skillet 10""",KITCHENWARE,2,45.00,90.00,,,,,Gift Card,Queens,Emma,first time customer
+1066,2024-11-01,Vincent Kim,vincent.kim@yahoo.com,Soy Wax Candle,decor,2,16.00,32.00,,,,,Debit,Manhattan,Bob,
+1067,2024-11-25,Kevin Park,kpark@icloud.com,Wooden Spoon Set,KITCHENWARE,1,18.00,16.20,10%,,,,Venmo,Manhattan,Carol,wedding gift
+1068,April 1 2024,Eric Mohamed,,Glass Pitcher,kitchenware,4,28.50,114.00,,,,,cash,Manhattan,Emma,staff pick
+1069,2024-04-06,Ray Williams,rwilliams@icloud.com,Hand Towel Set,BATH,4,24.00,96.00,,96.00,2024-04-27,wrong item shipped,Venmo,Brooklyn,Henry,called ahead
+1070,2024-09-03,Hiro Lopez,hlopez@gmail.com,Scented Candle,decor,1,12.00,10.80,10%,,,,debit,Queens,Frank,loyalty discount
+1071,2024-03-09,Unknown Customer,,Stoneware Bowl,KITCHENWARE,4,16.50,56.10,15%,,,,apple pay,Bronx,Frank,
+1072,10/26/2024,Maria Johnson,maria.johnson@yahoo.com,Ceramic Mug,KITCHENWARE,1,14.99,12.74,15%,12.74,2024-11-13,broken on arrival,Apple Pay,Bronx,Frank,fragile - handle with care
+1073,2024-11-18,Nadia Anderson,nadia.anderson@yahoo.com,Decorative Tray,Home Decor,1,32.00,27.20,15%,,,,Gift Card,Queens,Frank,gift wrapping
+1074,01/27/2024,Carlos Nguyen,cnguyen@gmail.com,Ceramic Mug,KITCHENWARE,1,14.99,12.74,15%,,,,Zelle,Manhattan,Emma,holiday rush
+1075,10/13/2024,Eric Diaz,ediaz@hotmail.com,Sisal Brush,bath,2,14.00,25.20,0.10,,,,cash,Manhattan,Dave,delivery requested
+1076,03/23/2024,Eric Diaz,ediaz@hotmail.com,Notebook,Office,1,15.00,14.25,5%,,,,debit,Bronx,Alice,in-store
+1077,2024-08-10,Sofia Zhang,szhang@yahoo.com,Scented Candle,HOME DECOR,1,12.00,10.80,0.10,,,,venmo,Brooklyn,Dave,
+1078,2024-12-29,Maria Hayes,mhayes@gmail.com,Scented Candle,Home Decor,2,12.00,21.60,0.10,,,,cash,Bronx,Grace,bulk order
+1079,2024-07-15,Maria Tran,,Pen Set,Stationery,1,22.00,19.80,10%,,,,,Queens,Dave,
+1080,09/07/2024,Unknown Customer,,Soy Wax Candle,home decor,2,16.00,32.00,,,,,Apple Pay,Manhattan,Emma,repeat customer
+1081,2024-11-11,David Lopez,dlopez@gmail.com,Holiday Wreath,Holiday,1,45.00,45.00,,45.00,2024-11-29,size issue,zelle,Bronx,Alice,first time customer
+1082,2024-11-15,Noah Martinez,nmartinez@gmail.com,Bath Towel,BATH,1,32.00,32.00,,,,,Venmo,Queens,Alice,delivery requested
+1083,12/09/2024,Carlos Williams,cwilliams@yahoo.com,Tree Ornament,Seasonal,1,8.00,8.00,,,,,debit,Manhattan,Dave,registry
+1084,2024-05-24,Maria Reyes,mreyes@hotmail.com,Placemats (set of 4),table linens,1,18.50,18.50,,,,,apple pay,Manhattan,Bob,called ahead
+1085,10/14/2024,Ray Williams,rwilliams@icloud.com,"Cast Iron Skillet 10""",Kitchenware,2,45.00,81.00,10%,,,,Apple Pay,Brooklyn,Bob,birthday gift
+1086,2024-11-16,Sofia Zhang,szhang@yahoo.com,Tree Ornament,seasonal,1,8.00,7.20,10%,,,,Venmo,Bronx,Henry,
+1087,Dec 18 2024,Emily Park,epark@icloud.com,Garland,Holiday,1,32.00,32.00,,32.00,2024-12-23,broken on arrival,,Bronx,Alice,first time customer
+1088,Sep 11 2024,Anna Jackson,ajackson@outlook.com,Ceramic Vase,Home Decor,3,24.99,71.22,5%,,,,Apple Pay,Bronx,Bob,
+1089,January 14 2024,Sofia Zhang,szhang@yahoo.com,Holiday Wreath,Seasonal,1,45.00,45.00,,,,,CREDIT CARD,Queens,Bob,
+1090,5/12/24,Hiro Lopez,hlopez@gmail.com,Tea Infuser,Kitchen,2,9.99,19.98,,19.98,2024-06-01,no longer needed,Venmo,brooklyn,Dave,delivery requested
+1091,06-16-2024,Yuki Marchetti,,Greeting Card Set,stationery,1,12.00,12.00,,,,,Venmo,Brooklyn,Henry,
+1092,2024-12-24,Jasmine Lee,jlee@gmail.com,Linen Napkins (set of 4),Table Linens,1,22.50,22.50,,,,,Venmo,Bronx,Grace,wedding gift
+1093,September 28 2024,Unknown Customer,,Notebook,Stationery,1,15.00,12.75,15%,,,,credit card,Queens,Dave,corporate order
+1094,2024-04-16,Ravi Pham,rpham@icloud.com,Easter Basket,Holiday,2,28.00,50.40,loyalty,,,,cash,Manhattan,Frank,first time customer
+1095,10/10/24,Yuki Zhang,,Bar Soap,bath,1,8.50,7.22,15%,,,,credit card,Brooklyn,Grace,first time customer
+1096,2024-11-17,Jasmine Rodriguez,jrodriguez@gmail.com,Pen Set,Stationery,1,22.00,19.80,loyalty,,,,credit card,Manhattan,Henry,
+1097,2024-02-11,Unknown Customer,,  Desk Calendar  ,Office,1,18.00,14.40,20%,,,,credit card,Manhattan,Henry,phone order
+1098,2024-05-31,Bianca Pham,bpham@yahoo.com,Linen Napkins (set of 4),table linens,2,22.50,40.50,0.10,,,,Zelle,Manhattan,Emma,bulk order
+1099,12-24-2024,Mei Brown,mbrown@hotmail.com,Soy Wax Candle,Home Decor,5,16.00,64.00,20%,,,,debit,Manhattan,Alice,in-store
+1100,11/09/2024,Ravi Pham,rpham@icloud.com,Tree Ornament,seasonal,4,8.00,25.60,20%,,,,,Bronx,Frank,
